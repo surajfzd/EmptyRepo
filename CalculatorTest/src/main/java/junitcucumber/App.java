@@ -1,3 +1,10 @@
+/*
+Edited from github
+*/
+
+
+
+
 package junitcucumber;
 
 public class App {
@@ -6,7 +13,7 @@ public class App {
 	private int value2;
 	private int result;
 	private String operation;
-	
+
 
 	public String getOperation() {
 		return operation;
